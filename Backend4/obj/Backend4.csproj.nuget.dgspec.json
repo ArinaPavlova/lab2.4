@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\6 семестр\\Web\\931802.sergina.aleksandra.lab4-main\\Backend4\\Backend4.csproj": {}
+    "D:\\WWW\\lab2.4\\Backend4\\Backend4.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\6 семестр\\Web\\931802.sergina.aleksandra.lab4-main\\Backend4\\Backend4.csproj": {
+    "D:\\WWW\\lab2.4\\Backend4\\Backend4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\6 семестр\\Web\\931802.sergina.aleksandra.lab4-main\\Backend4\\Backend4.csproj",
+        "projectUniqueName": "D:\\WWW\\lab2.4\\Backend4\\Backend4.csproj",
         "projectName": "Backend4",
-        "projectPath": "D:\\Учеба\\6 семестр\\Web\\931802.sergina.aleksandra.lab4-main\\Backend4\\Backend4.csproj",
+        "projectPath": "D:\\WWW\\lab2.4\\Backend4\\Backend4.csproj",
         "packagesPath": "C:\\Users\\pashk\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\6 семестр\\Web\\931802.sergina.aleksandra.lab4-main\\Backend4\\obj\\",
+        "outputPath": "D:\\WWW\\lab2.4\\Backend4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
